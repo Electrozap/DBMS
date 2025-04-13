@@ -94,4 +94,3 @@ StreamLine/
 
 ---
 
-Let me know if you want to include installation steps, a license section, or demo screenshots.
