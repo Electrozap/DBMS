@@ -1,7 +1,6 @@
 # DBMS
-Sure! Here's the `README.md` without any emojis:
 
----
+
 
 # StreamLine – Smart Music Management Platform
 
